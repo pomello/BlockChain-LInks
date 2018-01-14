@@ -14,10 +14,10 @@ This is an ongoing list of blockchain resources
 1. Examples: https://github.com/openblockchains
 
 
-
+ 
 ### IOTA
 
 1. Useful info: http://iota.partners/
 1. installing node: https://forum.helloiota.com/2424/Setting-up-a-VPS-IOTA-Full-Node-from-scratch
 1. nodes: https://iotasalad.org/nodes
-.1 iota for testnet: https://seeedy.tangle.works/
+1. iota for testnet: https://seeedy.tangle.works/
