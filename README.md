@@ -12,6 +12,7 @@ This is an ongoing list of blockchain resources
 1. Create Dapp Apps: https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
 1. Smart Contracts: https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05
 1. Examples: https://github.com/openblockchains
+1. https://hackernoon.com/search?q=Ethereum%20Development%20Walkthrough%20
 
 
  
